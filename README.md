@@ -29,7 +29,7 @@
 
 ---
 
-[![Build status](https://ci.appveyor.com/api/projects/status/rfxd3w56dnbkxsaa/branch/main?svg=true)]()
+[![Build status](https://ci.appveyor.com/api/projects/status/rfxd3w56dnbkxsaa/branch/main?svg=true)](https://ci.appveyor.com/project/finchik/html-forms)
 
 ---
 
