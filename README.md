@@ -1,3 +1,9 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/rfxd3w56dnbkxsaa/branch/main?svg=true)](https://ci.appveyor.com/project/finchik/html-forms)
+
+---
+
+https://finchik.github.io/html_forms/
+
 # AHJ-5.1
 
 Правила сдачи задания:
@@ -29,8 +35,4 @@
 
 ---
 
-[![Build status](https://ci.appveyor.com/api/projects/status/rfxd3w56dnbkxsaa/branch/main?svg=true)](https://ci.appveyor.com/project/finchik/html-forms)
 
----
-
-https://finchik.github.io/html_forms/
